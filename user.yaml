@@ -1,0 +1,12 @@
+var:
+  last_build_time: 1710920687
+  option:
+    ascii_punct: true
+    full_shape: false
+    search_single_char: false
+  previously_selected_schema: rime_ice
+  schema_access_time:
+    double_pinyin_flypy: 1709497734
+    double_pinyin_mspy: 1709497735
+    double_pinyin_sogou: 1709497734
+    rime_ice: 1709507914

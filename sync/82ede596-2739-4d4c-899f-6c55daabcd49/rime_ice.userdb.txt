@@ -1,0 +1,18 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	13
+#@/user_id	82ede596-2739-4d4c-899f-6c55daabcd49
+ci ku 	词库	c=1 d=1 t=5
+fan ti 	繁体	c=1 d=1 t=9
+he ji 	合集	c=2 d=1.99501 t=7
+jian ti 	简体	c=1 d=1 t=11
+kai xin 	开心	c=1 d=1 t=4
+shu ru fa 	输入法	c=1 d=1 t=1
+sou gou 	搜狗	c=1 d=1 t=12
+tian tian 	天天	c=1 d=1 t=3
+wen jian zhong 	文件中	c=1 d=1 t=8
+zhu 	注	c=1 d=1 t=2
+zhuan 	转	c=1 d=1 t=10
+zi ku 	字库	c=1 d=1 t=13
